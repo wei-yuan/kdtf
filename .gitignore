@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data
+.gz
+
+# model checkpoint
+studentcpt/
+teachercpt/
+
+# log
+log/
+__pycache__/
